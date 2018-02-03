@@ -2,4 +2,4 @@
 Мой сайт
 
 
-[Мой сайт](https://solokhin.github.io/website/ "Мой сайт")
+[Мой сайт](https://solokhin.github.io "Мой сайт")
